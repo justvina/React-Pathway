@@ -1,2 +1,4 @@
 import React from "react";
-import "./Chart.css";
+import "./ChartBar.css";
+
+export default ChartBar;
